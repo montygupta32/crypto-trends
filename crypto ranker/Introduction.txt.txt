@@ -1,0 +1,5 @@
+Author@Montygupta
+
+We're going to be creating an application that allows us to sort the top 100 cryptocurrency by rank according to their 24 hour price change and 24 hour volume.
+So I'll go ahead and show you what it looks like.
+
